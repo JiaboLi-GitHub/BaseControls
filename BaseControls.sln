@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BaseControls", "BaseControls\BaseControls.vcxproj", "{1FBC29A5-50E6-43C2-AA05-04F1236F0B2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FBC29A5-50E6-43C2-AA05-04F1236F0B2F}.Debug|x64.ActiveCfg = Debug|x64
+		{1FBC29A5-50E6-43C2-AA05-04F1236F0B2F}.Debug|x64.Build.0 = Debug|x64
+		{1FBC29A5-50E6-43C2-AA05-04F1236F0B2F}.Release|x64.ActiveCfg = Release|x64
+		{1FBC29A5-50E6-43C2-AA05-04F1236F0B2F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8672D197-F846-47F1-9E3C-8A6F295BEC88}
+	EndGlobalSection
+EndGlobal
