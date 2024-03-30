@@ -13,11 +13,11 @@
 
 ## 效果预览：
 
-![LJBDefaultButton](GitHub\Img\LJBDefaultButton.png)
+![LJBDefaultButton](GitHub/Img/LJBDefaultButton.png)
 
 
 
 
 
-![LJBLineEdit](GitHub\Img\LJBLineEdit.png)
+![LJBLineEdit](GitHub/Img/LJBLineEdit.png)
 
