@@ -99,11 +99,11 @@
     <QtUic Include="BaseControls.ui" />
     <QtMoc Include="BaseControls.h" />
     <ClCompile Include="BaseControls.cpp" />
-    <ClCompile Include="Button\DefaultButton.cpp" />
+    <ClCompile Include="Button\LJBDefaultButton.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <QtMoc Include="Button\DefaultButton.h" />
+    <QtMoc Include="Button\LJBDefaultButton.h" />
   </ItemGroup>
   <ItemGroup>
     <QtMoc Include="InputBox\LJBLineEdit.h" />

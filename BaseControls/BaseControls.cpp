@@ -1,5 +1,5 @@
 ﻿#include "BaseControls.h"
-#include "Button/DefaultButton.h"
+#include "Button/LJBDefaultButton.h"
 #include "InputBox/LJBLineEdit.h"
 
 
@@ -13,7 +13,7 @@ BaseControls::BaseControls(QWidget* parent)
 			background-color: white;
 	)");
 
-	//auto widget = new DefaultButton(this);
+	//auto widget = new LJBDefaultButton(this);
 	auto widget = new LJBLineEdit(this);
 
 	widget->setFixedSize(200, 40);

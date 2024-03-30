@@ -1,15 +1,15 @@
-﻿#include "DefaultButton.h"
+﻿#include "LJBDefaultButton.h"
 
-DefaultButton::DefaultButton(QWidget* parent)
+LJBDefaultButton::LJBDefaultButton(QWidget* parent)
 	: QPushButton(parent)
 {
 	initUI();
 }
 
-DefaultButton::~DefaultButton()
+LJBDefaultButton::~LJBDefaultButton()
 {}
 
-void DefaultButton::initUI()
+void LJBDefaultButton::initUI()
 {
 	this->setText("成功按钮");
 	this->setStyleSheet(R"(
