@@ -26,20 +26,8 @@
     <QtRcc Include="BaseControls.qrc">
       <Filter>Resource Files</Filter>
     </QtRcc>
-    <QtUic Include="BaseControls.ui">
-      <Filter>Form Files</Filter>
-    </QtUic>
-    <QtMoc Include="BaseControls.h">
-      <Filter>Header Files</Filter>
-    </QtMoc>
-    <ClCompile Include="BaseControls.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Button\LJBDefaultButton.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
