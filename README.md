@@ -1,6 +1,6 @@
 # BaseControls
 
-这个是一个漂亮的Qt组件库，其样式参考自<a href="https://element.eleme.cn/#/zh-CN">Element</a>。
+这个是一个漂亮的Qt组件库，其样式参考自<a href="https://element.eleme.cn/#/zh-CN">Element</a>。建议结合<a href="https://github.com/JiaboLi-GitHub/qt-designer-plugin-tool">Qt Designer插件封装工具</a>使用
 
 ## 已实现的组件：
 
