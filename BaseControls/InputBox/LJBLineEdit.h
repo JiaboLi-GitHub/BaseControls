@@ -8,7 +8,7 @@ class MATERIAL_WIDGET_API LJBLineEdit : public QLineEdit
 	Q_OBJECT
 
 public:
-	LJBLineEdit(QWidget* parent);
+	LJBLineEdit(QWidget* parent = nullptr);
 	~LJBLineEdit();
 
 private:
